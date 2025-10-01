@@ -9,35 +9,35 @@
     },
     {
         "slide_name": "Einführung.md",
-        "text": "\\dm * Ein Programmierer ist eine Person, die Computerprogramme entwickelt und pflegt.\\dm\n * Programmierer sind in fast allen Lebensbereichen gefragt.\\dm\n * Ziel der Präsentation: den Beruf Programmierer und seine Bedeutung vorstellen."
+        "text": "\\dm * Ein Programmierer ist eine Person, die Computerprogramme entwickelt und pflegt.\\dm\n\n * Programmierer sind in fast allen Lebensbereichen gefragt.\\dm\n\n * Ziel der Präsentation: den Beruf Programmierer und seine Bedeutung vorstellen."
     },
     {
         "slide_name": "Geschichte_des_Berufs.md",
-        "text": "\\dm * \\~Ada Lovelace\\~ gilt als die erste Programmiererin der Welt.\n   Sie schrieb den ersten Algorithmus.\\dm\n * \\~Alan Turing\\~ legte die theoretischen Grundlagen der modernen Informatik.\\dm\n * Von Lochkarten und Assembler-Sprachen bis zu Java, Python und modernen Tools."
+        "text": "\\dm * \\~Ada Lovelace\\~ gilt als die erste Programmiererin der Welt.\n   Sie schrieb den ersten Algorithmus.\\dm\n\n * \\~Alan Turing\\~ legte die theoretischen Grundlagen der modernen Informatik.\\dm\n\n * Von Lochkarten und Assembler-Sprachen bis zu Java, Python und modernen Tools."
     },
     {
         "slide_name": "Hauptbereiche_der_Programmierung.md",
-        "text": "\\dm * \\~Softwareentwicklung\\~: Erstellung von Programmen für Unternehmen und Privatnutzer.\\dm\n * \\~Web-Entwicklung\\~: Gestaltung von Webseiten und Webanwendungen.\\dm\n * \\~Mobile Apps\\~: Programme für Smartphones und Tablets.\\dm\n * \\~Spieleentwicklung\\~: Entwicklung von Computerspielen und virtuellen Welten.\\dm\n * \\~KI\\~: Systeme, die lernen und selbstständig Entscheidungen treffen können."
+        "text": "\\dm * \\~Softwareentwicklung\\~: Erstellung von Programmen für Unternehmen und Privatnutzer.\\dm\n\n * \\~Web-Entwicklung\\~: Gestaltung von Webseiten und Webanwendungen.\\dm\n\n * \\~Mobile Apps\\~: Programme für Smartphones und Tablets.\\dm\n\n * \\~Spieleentwicklung\\~: Entwicklung von Computerspielen und virtuellen Welten.\\dm\n\n * \\~KI\\~: Systeme, die lernen und selbstständig Entscheidungen treffen können."
     },
     {
         "slide_name": "Arbeit_eines_Programmierers.md",
-        "text": "\\dm * Programmierer \\~analysieren Probleme\\~ und suchen nach technischen Lösungen.\\dm\n * Sie \\~schreiben Code\\~, testen Programme und verbessern bestehende Software.\\dm\n * Häufig arbeiten sie an \\~Teamprojekten\\~ mit Designern, Ingenieuren und Managern.\\dm\n * Programmierer lösen \\~praktische Aufgaben\\~ wie Automatisierung, Datenspeicherung\n   oder sichere Kommunikation."
+        "text": "\\dm * Programmierer \\~analysieren Probleme\\~ und suchen nach technischen Lösungen.\\dm\n\n * Sie \\~schreiben Code\\~, testen Programme und verbessern bestehende Software.\\dm\n\n * Häufig arbeiten sie an \\~Teamprojekten\\~ mit Designern, Ingenieuren und Managern.\\dm\n\n * Programmierer lösen \\~praktische Aufgaben\\~ wie Automatisierung, Datenspeicherung\n   oder sichere Kommunikation."
     },
     {
         "slide_name": "Vorteile_des_Berufs.md",
-        "text": "\\dm * Programmierer sind weltweit sehr gefragt und haben viele Jobmöglichkeiten.\\dm\n * Die Bezahlung in diesem Beruf ist im Durchschnitt sehr hoch.\\dm\n * Remote-Arbeit ist möglich – man kann von überall auf der Welt arbeiten."
+        "text": "\\dm * Programmierer sind weltweit sehr gefragt und haben viele Jobmöglichkeiten.\\dm\n\n * Die Bezahlung in diesem Beruf ist im Durchschnitt sehr hoch.\\dm\n\n * Remote-Arbeit ist möglich – man kann von überall auf der Welt arbeiten."
     },
     {
         "slide_name": "Herausforderungen_und_Nachteile.md",
-        "text": "\\dm * Projekte können stressig sein, besonders bei engen Deadlines.\\dm\n * Langes Sitzen am Computer kann gesundheitliche Probleme verursachen.\\dm\n * Programmierer müssen ständig neue Technologien lernen, um aktuell zu bleiben."
+        "text": "\\dm * Projekte können stressig sein, besonders bei engen Deadlines.\\dm\n\n * Langes Sitzen am Computer kann gesundheitliche Probleme verursachen.\\dm\n\n * Programmierer müssen ständig neue Technologien lernen, um aktuell zu bleiben."
     },
     {
         "slide_name": "Wichtige_Kenntnisse_und_Fähigkeiten.md",
-        "text": "\\dm * \\~Programmiersprachen\\~: Zum Beispiel Java, Python, C++ oder Kotlin.\\dm\n * \\~Algorithmen und Datenstrukturen\\~: Grundlage für effiziente Programme.\\dm\n * \\~Datenbanken\\~: Speicherung und Verarbeitung von Informationen.\\dm\n * \\~Logisches Denken und Analyse\\~: Fähigkeit, komplexe Probleme in kleine Schritte\n   zu zerlegen.\\dm\n * \\~Teamarbeit und Kommunikation\\~: Programmierer arbeiten oft in internationalen\n   Teams."
+        "text": "\\dm * \\~Programmiersprachen\\~: Zum Beispiel Java, Python, C++ oder Kotlin.\\dm\n\n * \\~Algorithmen und Datenstrukturen\\~: Grundlage für effiziente Programme.\\dm\n\n * \\~Datenbanken\\~: Speicherung und Verarbeitung von Informationen.\\dm\n\n * \\~Logisches Denken und Analyse\\~: Fähigkeit, komplexe Probleme in kleine Schritte\n   zu zerlegen.\\dm\n\n * \\~Teamarbeit und Kommunikation\\~: Programmierer arbeiten oft in internationalen\n   Teams."
     },
     {
         "slide_name": "Fazit.md",
-        "text": "\\dm * Programmierer gestalten die digitale Zukunft.\\dm\n * Der Beruf bietet viele Chancen, aber auch Herausforderungen.\\dm\n * Programmierung ist ein spannender, kreativer und verantwortungsvoller Beruf."
+        "text": "\\dm * Programmierer gestalten die digitale Zukunft.\\dm\n\n * Der Beruf bietet viele Chancen, aber auch Herausforderungen.\\dm\n\n * Programmierung ist ein spannender, kreativer und verantwortungsvoller Beruf."
     },
     {
         "slide_name": "36e2b1b7-fc14-4ff8-b298-447e1d97ede0.md",
