@@ -5,7 +5,7 @@
     },
     {
         "slide_name": "README.md",
-        "text": "Programmierer.\nAlles über den Beruf."
+        "text": "  _____                                               _                    \n |  __ \\                                             (_)                   \n | |__) | __ ___   __ _ _ __ __ _ _ __ ___  _ __ ___  _  ___ _ __ ___ _ __ \n |  ___/ '__/ _ \\ / _` | '__/ _` | '_ ` _ \\| '_ ` _ \\| |/ _ \\ '__/ _ \\ '__|\n | |   | | | (_) | (_| | | | (_| | | | | | | | | | | | |  __/ | |  __/ |   \n |_|   |_|  \\___/ \\__, |_|  \\__,_|_| |_| |_|_| |_| |_|_|\\___|_|  \\___|_|   \n                   __/ |                                                   \n                  |___/                                                    \\dm\n\nAlles über den Beruf."
     },
     {
         "slide_name": "Einführung.md",
@@ -13,7 +13,7 @@
     },
     {
         "slide_name": "Geschichte_des_Berufs.md",
-        "text": "\\dm * \\~Ada Lovelace\\~ gilt als die erste Programmiererin der Welt.\n   Sie schrieb den ersten Algorithmus.\\dm\n\n * \\~Alan Turing\\~ legte die theoretischen Grundlagen der modernen Informatik.\\dm\n\n * Von Lochkarten und Assembler-Sprachen bis zu Java, Python und modernen Tools."
+        "text": "\\dm * \\~Ada Lovelace\\~ gilt als die erste Programmiererin der Welt. Sie schrieb\n   den ersten Algorithmus.\\dm\n\n * \\~Alan Turing\\~ legte die theoretischen Grundlagen der modernen Informatik.\\dm\n\n * Von Lochkarten und Assembler-Sprachen bis zu Java, Python und modernen Tools.\\dm\n\n             ,----------------,           ,---------,\n        ,-----------------------,       ,\"        ,\"|\n      ,\"                      ,\"|     ,\"        ,\"  |\n     +-----------------------+  |   ,\"        ,\"    |\n     |  .-----------------.  |  |  +---------+      |\n     |  |int main() {     |  |  |  | -==----'|      |\n     |  |  printf(\"Hi!\"); |  |  |  |         |      |\n     |  |  return 0;\\~ \\~     |  |  |/-|`---=    |      |\n     |  |}                |  |  |  |==== ooo |      ;\n     |  |\\~hi.c [+] 3,12 All\\~|  |  |  |(((( [33]|    ,\"\n     |  `-----------------'  |,\"   |((((     |  ,\"\n     +-----------------------+     |         |,\"     -Kevin Lam-\n        /_)______________(_/       +---------+"
     },
     {
         "slide_name": "Hauptbereiche_der_Programmierung.md",
