@@ -4,7 +4,7 @@
   --background-color: #14161b;
   --on-background-color: #c4c6cc;
   --font-family: 'JetBrains Mono', monospace;
-  --font-size: 22px;
+  --font-size: 18px;
 }
 
 body {
@@ -26,6 +26,8 @@ body {
     color: var(--on-background-color);
     width: 100%;
     height: 100vh;
+    /* Disable font ligatures */
+    font-variant-ligatures: none;
     /* Make a text unselectable */
     -webkit-user-select: none; /* Safari */        
     -moz-user-select: none; /* Firefox */

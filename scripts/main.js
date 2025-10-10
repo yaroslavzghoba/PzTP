@@ -14,7 +14,7 @@ const outputTextHighlightCloseCode = '</span>'
 const outputTextSpaceCode = '&nbsp;'
 
 let slides = []
-let currentSlideIndex = 3;
+let currentSlideIndex = 0
 let isAnimationInProgress = false
 const minDelayBetweenCharsMs = 5;
 const maxDelayBetweenCharsMs = 5;
